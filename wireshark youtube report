@@ -1,0 +1,31 @@
+# 📊 Lab 1: Network Traffic Analysis with Wireshark
+
+## 🎯 Objective
+
+To capture and analyze live network traffic to identify common protocols and communication patterns.
+
+## 🛠️ Tools Used
+
+* Wireshark
+
+## 🧪 Method
+
+1. Started packet capture on active network interface
+2. Generated traffic by browsing websites
+3. Applied filters to analyze DNS, HTTP, and TCP traffic
+
+## 📊 Findings
+
+* Observed DNS queries resolving domain names to IP addresses
+* Identified HTTP requests between client and web servers
+* Detected multiple TCP connections establishing communication sessions
+
+## ✅ Conclusion
+
+Successfully captured and analyzed network traffic, gaining insight into how devices communicate over a network.
+
+## 📚 Key Learnings
+
+* How to capture live network traffic
+* Basic use of Wireshark filters
+* Understanding of DNS and HTTP traffic patterns
