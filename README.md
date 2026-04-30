@@ -2,19 +2,32 @@
 Cyber Security Portfolio, studies and analysis
 
 
-# 👨‍💻 Cybersecurity Portfolio – Joshua Burger
+# 👨‍💻 Cybersecurity Portfolio  
+Hi, I'm Joshua
+IT Network Integration Specialist | CC | Aspiring Penetration Tester
+Passionate about Technology and solving complex problems
 
 ## 📌 About Me
 
-Aspiring Cybersecurity Analyst with hands-on experience in network analysis, threat detection, and basic penetration testing. Currently completing Certified in Cybersecurity (CC) and Cisco Networking Academy Cybersecurity path.
+Education and Certifications: Diploma of Information Technology Network Integration Specialist | CEHv10 Trained | Certificate Network Troubleshooting, Standards and Best Practices | Diploma in Information Technology Support and Security | Certificate in A+ | Certificate Introduction to Cyber Security | Certificate Networking Basics | Certificate Networking Devices and Initial Configuration | OPSWAT ICIP | Certificate Endpoint Security | Cerificate in Network Defense | Certificate in Cyber Threat Management | Junior Cybersecurity Analyst Career Path | ISC2 Certified Cybersecurity | Certificate CyberOps
+
+Specialties: Networking and Desktop Support
 
 ## 🛠️ Skills & Tools
 
+* Computer Hardware
+* Operating Systems (Windows 7, 8, 8.1, 10, 11; Linux Ubuntu, Kali)
+* Linux Server Administration (CentOS)
+* Cisco Routers and Switches
+* VoIP (trixbox, softphones, hardphones)
+* Wireless Networking
+* Project Management
+* Windows Server (Windows server 2012R2, 2016R2)
 * Wireshark (Network Analysis)
 * Nmap (Network Scanning)
-* Kali Linux
-* Basic Linux & Networking
 * Security Fundamentals (CIA Triad, Threat Detection)
+* Mikrotik (Winbox)
+* Cisco Security Tools
 
 ## 🔐 Projects
 
